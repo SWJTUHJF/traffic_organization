@@ -1,0 +1,27 @@
+station_name/upstream_station
+N None
+A-B N
+B A-B
+B-C B
+C B-C
+C-D C
+D C-D
+D-E D
+E D-E
+E-F E
+F E-F
+O F
+C-G C
+G C-G
+G-H G
+H G-H
+H-I H
+I H-I
+I-J I
+J I-J
+H-K H
+K H-K
+K-R K
+R K-R
+K-L K
+L K-L
